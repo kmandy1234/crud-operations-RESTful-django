@@ -1,4 +1,4 @@
-# first_rest_django
+# CRUD operations REST django
 
 ### View movie list (read)
 http://localhost:8000/movie/
